@@ -1,0 +1,15 @@
+Régles et Informations:
+
+//Bienvenue sur 'Deep Within', un jeu codé par Marin//
+
+Ce jeu est un RPG au tour par tour avec différente thématique:
+
+1.Evenement:
+  Des évènement aléatoire interviennent dans votre partie ( par manque de budjet la liste des évènements a été réduite )
+
+2.Un système de Santé mentale et de Faim:
+  Fouiller dans le chateau pour pouvoir suvivre dans cette enfer
+
+3.On a un méga titre
+
+Malheuresement le jeu n'est pas complet :( , mais je le finirais un jour
